@@ -5,7 +5,7 @@ Relax Hub app as a Free app. This app is provided at no cost and is intended for
 You are required to login with Github account([Reference to github Privacy Policy](https://help.github.com/en/github/site-policy/github-privacy-statement)) so that the app could fetch data and display on the screen.
 
 To improve the experience, the app will save some history data in your device.
-I dont save any data to any remote server. All the data of these service is from github.com.
+I dont collect any data at all.
 
 ## Contact
 
